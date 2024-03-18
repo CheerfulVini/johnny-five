@@ -1,0 +1,25 @@
+p, ul, ol{
+    color: #444
+}
+
+body{
+    background-color: rgb(255, 174, 0);
+    font-family: "Comic Neue", cursive;
+    width: 60%;
+    margin: 0 auto;
+    padding: 2% 0;
+}
+
+main{
+    background-color: white;
+}
+
+h1, h2{
+    color: rgb( 140, 76, 8);
+}
+
+section{
+    margin-top: 0px;
+    padding-bottom: 5px;
+    border-top: solid 1px gray;
+}
